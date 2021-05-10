@@ -1,0 +1,12 @@
+1|Teclado|319.90|938
+2|Mouse|27.90|351
+3|Processador|895.90|494
+4|Placa de Video|949.90|189
+5|Pendrive|18.90|685
+6|Monitor|665.90|967
+7|Estabilizador|54.90|160
+8|Gabinete|105.90|24
+9|Placa-Mae|299.90|724
+10|Memoria RAM|228.90|31
+11|HD|239.90|22
+12|Fonte|119.90|502
